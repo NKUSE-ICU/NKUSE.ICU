@@ -27,7 +27,7 @@
 
 ## 如何参与本站的建设？
 
-- 最简单的方式，是将想要更新的内容发送到[维护人员的邮箱](yangyywl@gmail.com)。
+- 最简单的方式，是将想要更新的内容发送到[维护人员的邮箱](mailto:yangyywl@gmail.com)。
 
 - 更加直接的方式，是点击本站右上角的图标，进入本站的 [Github 仓库](https://github.com/NKUSE-ICU/NKUSE.ICU)，以 Pull Request 的方式，提交你对本站内容的改进。
 
