@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>NKUCS.ICU</title>
+  <title>NKUSE.ICU</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="a website which collects informations">
+  <meta name="description" content="a website for sharing information about the College of Software at Nankai University">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
@@ -13,17 +13,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'NKUCS.ICU',
-      repo: 'emanual20/NKUCS.ICU',
+      name: 'NKUSE.ICU',
+      repo: 'NKUSE-ICU/NKUSE.ICU',
       loadSidebar: true,
-      alias: {
-                '/.*/_sidebar.md': '/_sidebar.md',
-      },
       footer: {
         copy: '<span id="busuanzi_container_site_pv"> 👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次</span> <span id="busuanzi_container_site_uv">| 🚴‍♂️ 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人</span></br>',
         copy: '<span>Copyright &copy;</span>',
-        copy: '<span id="sitetime"></span> <br/> <span>Copyright &copy; 2022 &nbsp Maintainer:</span>',
-        auth: ' <strong><a href="https://github.com/emanual20" target="_blank">@Emanual20</a> <a href="https://github.com/VitalC-3026/" target="_blank">@VitalC-3026</a> <a href="https://github.com/Rainefly" target="_blank">@Rainefly</a> </strong>',
+        copy: '<span id="sitetime"></span> <br/> <span>Copyright &copy; 2023 &nbsp Maintainer:</span>',
+        auth: ' <strong><a href="https://github.com/wending0417" target="_blank">@wending0417</a> </strong>',
         pre: '<hr/>',
         style: 'font-size: 18px; text-align: center;',
       },
@@ -48,7 +45,7 @@
         hideOtherSidebarContent: true,
         // To avoid search index collision
         // between multiple websites under the same domain
-        namespace: 'nkucs.icu',
+        namespace: 'nkuse.icu',
       },
       count:{
         countable:true,
@@ -97,9 +94,9 @@
     const gitalk = new Gitalk({
       clientID: '85f33f9d7cc7463e63b5',
       clientSecret: '06366ea6fb876fa2e9fd209b9e04f532040ceade',
-      repo: 'NKUCS.ICU',
-      owner: 'emanual20',
-      admin: ['emanual20', 'Rainefly', 'VitalC-3026'],
+      repo: 'NKUSE.ICU',
+      owner: 'wending0417',
+      admin: ['wending0417'],
       // facebook-like distraction free mode
       distractionFreeMode: false
     })
@@ -146,7 +143,7 @@
       var todayHour = today.getHours();
       var todayMinute = today.getMinutes();
       var todaySecond = today.getSeconds();
-      var t1 = Date.UTC(2021, 12, 02, 00, 00, 00); 
+      var t1 = Date.UTC(2023, 07, 26, 19, 30, 00); 
       var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
       var diff = t2 - t1;
       var diffYears = Math.floor(diff / years);
