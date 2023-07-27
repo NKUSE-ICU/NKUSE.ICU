@@ -4,5 +4,8 @@
 
 请根据侧边栏的导航信息，或下述列表，查看具体课程的信息：
 
-- [COSC0020 毕业论文](/courses/grade-4/COSC0020)
-- [COSC0019 算法和协议中的安全机制及应用](/courses/grade-4/COSC0019)
+- [SOFT0050 毕业论文](/courses/grade-4/SOFT0050)
+- [SOFT0073 信息安全基础](/courses/grade-4/SOFT0073)
+- [SOFT0191 区块链软件](/courses/grade-4/SOFT0191)
+- [SOFT0207 数据科学](/courses/grade-4/SOFT0207)
+- [SOFT0208 软件测试与维护](/courses/grade-4/SOFT0208)
