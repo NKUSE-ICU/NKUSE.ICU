@@ -101,7 +101,7 @@
       repo: 'NKUSE.ICU',
       owner: 'NKUSE-ICU',
       admin: ['NKUSE-ICU'],
-      id: md5(location.pathname),
+      id: decodeURI(window.location.pathname),
       // facebook-like distraction free mode
       distractionFreeMode: false
     })
