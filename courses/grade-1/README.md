@@ -15,4 +15,6 @@
 - [IPTD0017 马克思主义基本原理概论](/courses/grade-1/IPTD0017)
 - [MITD0003 军事理论](/courses/grade-1/MITD0003)
 - [MITD0005 军事技能训练](/courses/grade-1/MITD0005)
+- [SOFT0060 软件工程专业课导论](/courses/grade-1/SOFT0060)
 - [SOFT0186 专业认知导引](/courses/grade-1/SOFT0186)
+- [SOFT0215 高级语言编程实训2](/courses/grade-1/SOFT0215)
