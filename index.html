@@ -93,6 +93,7 @@
   <!-- Gitalk -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="./md5.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: 'd66ca757ac148fae470e',
@@ -100,6 +101,7 @@
       repo: 'NKUSE.ICU',
       owner: 'NKUSE-ICU',
       admin: ['NKUSE-ICU'],
+      id: md5(location.pathname),
       // facebook-like distraction free mode
       distractionFreeMode: false
     })
