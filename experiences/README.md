@@ -14,4 +14,4 @@
 5. 出国；
 6. 考公、选调等其他去向。
 
-欢迎投稿至[维护人员邮箱](mailto:emanual20@foxmail.com)，一经采用，稿费酬谢。
+欢迎投稿至[维护人员邮箱](mailto:yangyywl@gmail.com)。

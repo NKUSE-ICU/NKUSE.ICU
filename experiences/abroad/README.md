@@ -50,4 +50,4 @@
 
 ---
 
-欢迎投稿至[维护人员邮箱](mailto:emanual20@foxmail.com)，一经采用，稿费酬谢。
+欢迎投稿至[维护人员邮箱](mailto:yangyywl@gmail.com)。
