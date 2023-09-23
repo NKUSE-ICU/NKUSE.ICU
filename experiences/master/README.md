@@ -23,4 +23,4 @@
 
 [2021年计算机保研经历回顾（人大信息、人大高瓴、自动化所、清深AI、复旦计算机）, @emanual20 from 2018cs](https://zhuanlan.zhihu.com/p/416688010)
 
-欢迎投稿至[维护人员邮箱](mailto:emanual20@foxmail.com)，一经采用，稿费酬谢。
+欢迎投稿至[维护人员邮箱](mailto:yangyywl@gmail.com)。
