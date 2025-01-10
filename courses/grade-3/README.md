@@ -21,3 +21,4 @@
 - [SOFT0202 并行与分布式程序设计](/courses/grade-3/SOFT0202)
 - [SOFT0211 人工智能物联网导论](/courses/grade-3/SOFT0211)
 - [SOFT0216 创业思维与方法](/courses/grade-3/SOFT0216)
+- [SOFT0224  Rust程序设计](/courses/grade-3/SOFT0224)
