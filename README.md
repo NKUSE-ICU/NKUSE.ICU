@@ -108,3 +108,13 @@
 **感谢关注，随时欢迎提供资源和提出宝贵建议！**
 
 **同时也希望南开软件的同学能从本站获得帮助，祝大家学业有成！**
+
+## 作业与资料仓库汇总(记得给他们点star！！！！！！！！！！！！！！！！！！不要养成白嫖的习惯，更不能抄袭)
+
+https://github.com/fukioston/NKUsoftwarehw
+
+https://github.com/ElectricMs/NKSoft24fallReview
+
+
+
+
